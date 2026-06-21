@@ -52,4 +52,4 @@
 
 ### 📫 Connect With Me
 - **Website:** [etrolit.io](https://etrolit.io)
-- **LinkedIn:** [Insert your LinkedIn URL here]
+- **LinkedIn:** [www.linkedin.com/in/samson-leon]
