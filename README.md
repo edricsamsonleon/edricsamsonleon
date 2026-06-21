@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Samson Leon 👋</h1>
-<h3 align="center">Founder & CEO at Etrolit | AI Automation Engineer | Business Analyst</h3>
+<h3 align="center">Founder & CEO at Etrolit | AI Automation Engineer | Content Creator</h3>
 
 <p align="center">
   Architecting AI automation infrastructure and Agentic OS solutions for SMMA and E-commerce. Bridging the gap between raw data and high-leverage business operations.
@@ -9,7 +9,8 @@
 
 ### 🚀 The Mission & Current Operations
 - 🏢 **Leading:** Scalable AI agents and automation ecosystems at [Etrolit](https://etrolit.io)
-- 🧠 **Building:** Local-first agentic hubs (Project Jarvis) integrating n8n, LLMs, and intelligent workflows.
+- 🧠 **Building:** Advanced agentic workflows and infrastructure using HyperAgent, n8n, and LLMs.
+- 🎙️ **Creating:** High-leverage content demonstrating how AI automation transforms SMMA and E-commerce operations.
 - 🎓 **Studying:** BSc (Hons) in Artificial Intelligence & Data Science at Robert Gordon University.
 - ⚡ **Focusing:** Auditing businesses to find exactly where AI creates pure operational leverage.
 
@@ -42,17 +43,13 @@
 **AI & Automation:**
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/HyperAgent-8A2BE2?style=for-the-badge&logo=hubot&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic_Workflows-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-### 📊 System Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edricsamsonleon&show_icons=true&theme=radical&hide_border=true" alt="Samson's GitHub Stats" />
-</p>
-
 ### 📫 Connect With Me
 - **Website:** [etrolit.io](https://etrolit.io)
-- **LinkedIn:** [www.linkedin.com/in/samson-leon]
+- **LinkedIn:** [Insert your LinkedIn URL here]
