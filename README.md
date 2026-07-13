@@ -1,53 +1,29 @@
 <div align="center">
+  
+# 🏁 DASHBOARD ACTIVE // SAMSON LEON 
+### Founder & CEO @ Etrolit | AI Automation Architect | Content Creator
 
-> ### 🛑 `SYS_BOOT: OK` | `ECU_MAP: ETROLIT_V1` | `TRACTION_CONTROL: OFF`
+`RPM [|||||||||||||||||||||||||||      ] 12,000`  |  `GEAR: 6`  |  `MODE: SCALING`
 
-<table width="100%" style="border: 2px solid #333; border-radius: 10px; background-color: #0d1117;">
-  <tr align="center">
-    <td width="33%">
-      <p style="color: #8b949e; font-size: 12px; margin: 0;">RIDING MODE</p>
-      <h3 style="color: #ff4444; margin: 5px 0;">RACE // AI AUTOMATION</h3>
-      <p style="color: #58a6ff; font-size: 12px;">ACTIVE: AGENTIC_OS</p>
-    </td>
-    <td width="33%">
-      <p style="color: #8b949e; font-size: 12px; margin: 0;">VELOCITY (OPS/SEC)</p>
-      <h1 style="color: #ffffff; margin: 0; font-size: 48px;">299</h1>
-      <p style="color: #8b949e; font-size: 10px; margin: 0;">SMMA / E-COM SCALING</p>
-    </td>
-    <td width="33%">
-      <p style="color: #8b949e; font-size: 12px; margin: 0;">CURRENT GEAR</p>
-      <h1 style="color: #ff4444; margin: 0; font-size: 48px;">6</h1>
-      <p style="color: #8b949e; font-size: 10px; margin: 0;">MAX LEVERAGE</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center" style="padding: 10px;">
-      <p style="color: #ffffff; font-family: monospace; font-size: 14px;">
-        RPM [|||||||||||||||||||||||||||&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;] 14,000
-      </p>
-    </td>
-  </tr>
-</table>
-
-# SAMSON LEON
-**Founder & CEO @ [Etrolit](https://etrolit.io) | AI Automation Architect | Content Creator**
-
-*Architecting the infrastructure that makes businesses run faster, leaner, and harder. Bridging the gap between raw telemetry and high-leverage business operations.*
+<p align="center">
+  <em>Architecting the infrastructure that makes businesses run faster, leaner, and harder. Building Agentic OS solutions and AI automation pipelines for SMMA and E-commerce—bridging the gap between raw telemetry and high-leverage operations.</em>
+</p>
 
 ---
 
-### 🎛️ ONBOARD DIAGNOSTICS & ACTIVE PROCESSES
+### 🏍️ THE RACING LINE // CURRENT OPERATIONS
 
-- **[SYS_LEAD]** Scaling advanced AI agents and automation ecosystems at **Etrolit**.
-- **[ENGINEERING]** Building autonomous OODA loop RAG workflows using HyperAgent, n8n, LangGraph, and Karpathy LLM paradigms.
-- **[BROADCAST]** Creating high-leverage, niche content demonstrating how agency owners achieve pure operational leverage. 
+- **[COMMAND]** Scaling advanced AI agents and automation ecosystems at [Etrolit](https://etrolit.io).
+- **[ENGINEERING]** Building autonomous workflows using HyperAgent, n8n, LangGraph, and cutting-edge LLMs.
+- **[BROADCAST]** Creating high-leverage content demonstrating how agency owners can utilize AI for pure operational leverage. 
 - **[ACADEMICS]** Reading for a BSc (Hons) in Artificial Intelligence & Data Science at Robert Gordon University.
+- **[COMMUNICATIONS]** Active Toastmasters member, honing the ability to deliver high-impact technical and business pitches.
 
 ---
 
-### 📊 TELEMETRY MODULES // TECH ARSENAL
+### 📊 TELEMETRY & TECH ARSENAL
 
-#### ⚙️ `MODULE 01: CORE POWERTRAIN` (Logic & Frameworks)
+#### ⚙️ CORE POWERTRAIN // Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -55,10 +31,12 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaFX-000000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/XML-0052CC?style=for-the-badge&logo=xml&logoColor=white" />
 </p>
 
-#### ⚡ `MODULE 02: AUTONOMOUS ASSIST` (AI, RAG & Orchestration)
+#### ⚡ FORCED INDUCTION // AI, RAG & Orchestration
+> *Architecting intelligent loops, OODA RAG architectures, and agentic mental models based on Karpathy's LLM paradigms.*
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -68,41 +46,36 @@
   <img src="https://img.shields.io/badge/Hugging_Face-FFA500?style=for-the-badge&logo=huggingface&logoColor=white" />
 </p>
 
-#### 🧠 `MODULE 03: NAVIGATION SYS` (Data, Search & ML Logic)
+#### 🧠 NAVIGATION // Machine Learning & Data Logic
 > *Deploying robust Data Structures & Algorithms (DSA), advanced ML models, and loop engineering for predictive analytics and semantic cluster search.*
 <p align="left">
   <img src="https://img.shields.io/badge/ChromaDB-FF69B4?style=for-the-badge&logo=database&logoColor=white" />
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_ML_Algorithms-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-4479A1?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
-#### 🏎️ `MODULE 04: CHASSIS & SECURITY` (Cloud & Identity)
+#### 🏎️ CHASSIS & CLOUD // Infrastructure & Security
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Asgardeo-FF4500?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-#### 🛠️ `MODULE 05: PIT CREW` (Dev Environments)
+#### 🛠️ THE PIT CREW // Dev Environments & Copilots
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-24292E?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
-### 📡 COMMS LINK
-<table>
-  <tr>
-    <td><b>🌐 HEADQUARTERS</b></td>
-    <td><a href="https://etrolit.io">etrolit.io</a></td>
-  </tr>
-  <tr>
-    <td><b>👔 NETWORK</b></td>
-    <td><a href="https://www.linkedin.com/in/samson-leon">linkedin.com/in/samson-leon</a></td>
-  </tr>
-</table>
+### 📡 ESTABLISH COMMS
+- 🌐 **Agency Headquarters:** [etrolit.io](https://etrolit.io)
+- 👔 **Professional Network:** [linkedin.com/in/samson-leon](https://www.linkedin.com/in/samson-leon)
 
 </div>
